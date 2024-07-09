@@ -1,0 +1,17 @@
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 12;
+    color: #6c757d;
+  }
+  
+  .card-price {
+    font-size: 14c; 
+    color: #007bff; 
+    margin-top: 10px; 
+  }
+  
